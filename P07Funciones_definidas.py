@@ -1,3 +1,4 @@
+#Isabella Nahomy Robles Ortega
 numero = float(input("Ingresa un número decimal: "))
 
 resultado = round(numero, 2)

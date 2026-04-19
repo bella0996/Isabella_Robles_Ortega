@@ -1,9 +1,9 @@
-# Pedir datos
+#Isabella Nahomy Robles Ortega
 edad = int(input("Ingresa tu edad: "))
 tiene_boleto = input("¿Tienes boleto? (si/no): ").lower()
 esta_en_lista = input("¿Estás en la lista VIP? (si/no): ").lower()
 
-# Evaluar acceso
+
 # Puede entrar si:
 # - Tiene 18 o más Y tiene boleto
 # - O está en lista VIP

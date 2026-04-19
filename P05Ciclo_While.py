@@ -1,3 +1,4 @@
+#Isabella Nahomy Robles Ortega
 # Tabla de multiplicar de un número
 num = int(input("Ingresa un número: "))
 

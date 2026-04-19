@@ -1,3 +1,4 @@
+#Isabella Nahomy Robles Ortega
 import math
 
 numero = float(input("Ingresa un número: "))

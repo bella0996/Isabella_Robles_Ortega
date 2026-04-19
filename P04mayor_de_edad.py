@@ -1,4 +1,4 @@
-# Pedir datos
+#Isabella Nahomy Robles Ortega
 edad = int(input("Ingresa tu edad: "))
 tiene_id = input("¿Tienes identificación oficial? (si/no): ").lower()
 

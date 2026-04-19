@@ -1,3 +1,4 @@
+#Isabella Nahomy Robles Ortega
 # Crear un arreglo
 numeros = [10, 20, 30, 40, 50]
 

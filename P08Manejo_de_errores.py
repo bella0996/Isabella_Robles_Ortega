@@ -1,3 +1,4 @@
+#Isabella Nahomy Robles Ortega
 try:
     numero = int(input("Ingresa un número: "))
     resultado = 10 / numero
